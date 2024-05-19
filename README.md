@@ -35,4 +35,4 @@ Insomnia Core - see Demo on how to start applications
 
 ## Video Deployment
 
-![demo](https://drive.google.com/file/d/17jhr2KxvmZWJDuhulLGwC0Iwi83s2MLN/view)
+[demo](https://drive.google.com/file/d/17jhr2KxvmZWJDuhulLGwC0Iwi83s2MLN/view)
